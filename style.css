@@ -1,0 +1,13 @@
+p
+{
+    color: green;
+}
+
+p#navegador
+{
+    color: blue;
+}
+p.tiposnav
+{
+    color: red;
+}
